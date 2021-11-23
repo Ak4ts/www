@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b6b2c80e7678cf4e8240cb04ace2708",
+    "revision": "fbf784f9787df4e9b009266edecaf3fe",
     "url": "./index.html"
   },
   {
-    "revision": "262a38d7809f5c7c83b0",
-    "url": "./static/css/2.c9d6f08e.chunk.css"
+    "revision": "cd827067f526b8b4a526",
+    "url": "./static/css/2.5d5ce2c3.chunk.css"
   },
   {
-    "revision": "25ad9c8559f511df7c50",
-    "url": "./static/css/main.4d9d21ad.chunk.css"
+    "revision": "5e206db23f7cae5c85a6",
+    "url": "./static/css/main.e5bcb23e.chunk.css"
   },
   {
-    "revision": "262a38d7809f5c7c83b0",
-    "url": "./static/js/2.56ca289f.chunk.js"
+    "revision": "cd827067f526b8b4a526",
+    "url": "./static/js/2.8f96c115.chunk.js"
   },
   {
-    "revision": "5cbe837bcd75d7587a36d640e5eca48d",
-    "url": "./static/js/2.56ca289f.chunk.js.LICENSE.txt"
+    "revision": "9679e60614c33194c63cb8af43c02c0f",
+    "url": "./static/js/2.8f96c115.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25ad9c8559f511df7c50",
-    "url": "./static/js/main.5254671e.chunk.js"
+    "revision": "5e206db23f7cae5c85a6",
+    "url": "./static/js/main.f5e758cc.chunk.js"
   },
   {
     "revision": "1f2f74f08790f9ae94ee",
@@ -52,10 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/apple-logo.212fac53.png"
   },
   {
-    "revision": "266a3eb28a9f48ee7c44f48182597c58",
-    "url": "./static/media/apresentation.266a3eb2.mp4"
-  },
-  {
     "revision": "6f20ea68ba666e532863853589f055be",
     "url": "./static/media/artista.6f20ea68.png"
   },
@@ -74,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f849288d0800793e47a4cb383d161b40",
     "url": "./static/media/banner1.f849288d.png"
-  },
-  {
-    "revision": "6d0af2e93c04f52480d78c3acd50f568",
-    "url": "./static/media/banner2.6d0af2e9.png"
   },
   {
     "revision": "8ae669105fd732c96693a98597ca4d5c",
@@ -114,14 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd507018412a6877853a79986f440736",
     "url": "./static/media/girl.cd507018.png"
-  },
-  {
-    "revision": "d119961a58ca5fe1c8802b672a7402bf",
-    "url": "./static/media/hermanoteu.d119961a.png"
-  },
-  {
-    "revision": "db0f168204f0b767b40c6b3e14647ede",
-    "url": "./static/media/imagemAssinatura.db0f1682.png"
   },
   {
     "revision": "eed8c3d8e4039d213375f835640c2fa7",
