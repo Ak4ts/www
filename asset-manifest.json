@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.e5bcb23e.chunk.css",
-    "main.js": "./static/js/main.33014a1b.chunk.js",
-    "main.js.map": "./static/js/main.33014a1b.chunk.js.map",
+    "main.css": "./static/css/main.2063a3cc.chunk.css",
+    "main.js": "./static/js/main.1a1954af.chunk.js",
+    "main.js.map": "./static/js/main.1a1954af.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.bbb920c1.js",
     "runtime-main.js.map": "./static/js/runtime-main.bbb920c1.js.map",
     "static/css/2.5d5ce2c3.chunk.css": "./static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.d96b5d08.chunk.js": "./static/js/2.d96b5d08.chunk.js",
-    "static/js/2.d96b5d08.chunk.js.map": "./static/js/2.d96b5d08.chunk.js.map",
+    "static/js/2.a190d1bb.chunk.js": "./static/js/2.a190d1bb.chunk.js",
+    "static/js/2.a190d1bb.chunk.js.map": "./static/js/2.a190d1bb.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.84e4709cb18732c767ba001608a75f89.js": "./precache-manifest.84e4709cb18732c767ba001608a75f89.js",
+    "precache-manifest.4129f05e7e1a26b98cecd9dfc410ab97.js": "./precache-manifest.4129f05e7e1a26b98cecd9dfc410ab97.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.5d5ce2c3.chunk.css.map": "./static/css/2.5d5ce2c3.chunk.css.map",
-    "static/css/main.e5bcb23e.chunk.css.map": "./static/css/main.e5bcb23e.chunk.css.map",
-    "static/js/2.d96b5d08.chunk.js.LICENSE.txt": "./static/js/2.d96b5d08.chunk.js.LICENSE.txt",
+    "static/css/main.2063a3cc.chunk.css.map": "./static/css/main.2063a3cc.chunk.css.map",
+    "static/js/2.a190d1bb.chunk.js.LICENSE.txt": "./static/js/2.a190d1bb.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
     "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
     "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
-    "static/media/alo.png": "./static/media/alo.711dd50f.png",
     "static/media/android-logo.png": "./static/media/android-logo.df2e7026.png",
     "static/media/apple-logo.png": "./static/media/apple-logo.212fac53.png",
     "static/media/artista.png": "./static/media/artista.6f20ea68.png",
@@ -34,6 +33,7 @@
     "static/media/faces.png": "./static/media/faces.6cfad948.png",
     "static/media/friends.png": "./static/media/friends.2e177027.png",
     "static/media/girl.png": "./static/media/girl.cd507018.png",
+    "static/media/imagemAssinatura.png": "./static/media/imagemAssinatura.db0f1682.png",
     "static/media/investidor.png": "./static/media/investidor.eed8c3d8.png",
     "static/media/melhoresDoMundo.png": "./static/media/melhoresDoMundo.0d2d4ada.png",
     "static/media/mug.png": "./static/media/mug.9d716a5f.png",
@@ -47,8 +47,8 @@
   "entrypoints": [
     "static/js/runtime-main.bbb920c1.js",
     "static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.d96b5d08.chunk.js",
-    "static/css/main.e5bcb23e.chunk.css",
-    "static/js/main.33014a1b.chunk.js"
+    "static/js/2.a190d1bb.chunk.js",
+    "static/css/main.2063a3cc.chunk.css",
+    "static/js/main.1a1954af.chunk.js"
   ]
 }
