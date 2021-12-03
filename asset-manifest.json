@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.2063a3cc.chunk.css",
-    "main.js": "./static/js/main.f22365a4.chunk.js",
-    "main.js.map": "./static/js/main.f22365a4.chunk.js.map",
+    "main.css": "./static/css/main.4557ac0c.chunk.css",
+    "main.js": "./static/js/main.6c23cb3f.chunk.js",
+    "main.js.map": "./static/js/main.6c23cb3f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.bbb920c1.js",
     "runtime-main.js.map": "./static/js/runtime-main.bbb920c1.js.map",
     "static/css/2.5d5ce2c3.chunk.css": "./static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.93d85cc4.chunk.js": "./static/js/2.93d85cc4.chunk.js",
-    "static/js/2.93d85cc4.chunk.js.map": "./static/js/2.93d85cc4.chunk.js.map",
+    "static/js/2.865a4295.chunk.js": "./static/js/2.865a4295.chunk.js",
+    "static/js/2.865a4295.chunk.js.map": "./static/js/2.865a4295.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b72898d8d0b45760585477214e0772e9.js": "./precache-manifest.b72898d8d0b45760585477214e0772e9.js",
+    "precache-manifest.811ddd900c6cb018004a1f579ec33224.js": "./precache-manifest.811ddd900c6cb018004a1f579ec33224.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.5d5ce2c3.chunk.css.map": "./static/css/2.5d5ce2c3.chunk.css.map",
-    "static/css/main.2063a3cc.chunk.css.map": "./static/css/main.2063a3cc.chunk.css.map",
-    "static/js/2.93d85cc4.chunk.js.LICENSE.txt": "./static/js/2.93d85cc4.chunk.js.LICENSE.txt",
+    "static/css/main.4557ac0c.chunk.css.map": "./static/css/main.4557ac0c.chunk.css.map",
+    "static/js/2.865a4295.chunk.js.LICENSE.txt": "./static/js/2.865a4295.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
     "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
     "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
@@ -32,9 +32,11 @@
     "static/media/emContrucao.png": "./static/media/emContrucao.577ed4e7.png",
     "static/media/faces.png": "./static/media/faces.6cfad948.png",
     "static/media/friends.png": "./static/media/friends.2e177027.png",
+    "static/media/fundo.png": "./static/media/fundo.ccb6aba9.png",
     "static/media/girl.png": "./static/media/girl.cd507018.png",
     "static/media/imagemAssinatura.png": "./static/media/imagemAssinatura.db0f1682.png",
     "static/media/investidor.png": "./static/media/investidor.eed8c3d8.png",
+    "static/media/logoretiro.png": "./static/media/logoretiro.9079b480.png",
     "static/media/melhoresDoMundo.png": "./static/media/melhoresDoMundo.0d2d4ada.png",
     "static/media/mug.png": "./static/media/mug.9d716a5f.png",
     "static/media/produtora.png": "./static/media/produtora.bf275040.png",
@@ -47,8 +49,8 @@
   "entrypoints": [
     "static/js/runtime-main.bbb920c1.js",
     "static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.93d85cc4.chunk.js",
-    "static/css/main.2063a3cc.chunk.css",
-    "static/js/main.f22365a4.chunk.js"
+    "static/js/2.865a4295.chunk.js",
+    "static/css/main.4557ac0c.chunk.css",
+    "static/js/main.6c23cb3f.chunk.js"
   ]
 }
