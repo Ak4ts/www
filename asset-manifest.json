@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.caf60505.chunk.css",
-    "main.js": "./static/js/main.bed9ea59.chunk.js",
-    "main.js.map": "./static/js/main.bed9ea59.chunk.js.map",
+    "main.css": "./static/css/main.8770c327.chunk.css",
+    "main.js": "./static/js/main.6ec5eadf.chunk.js",
+    "main.js.map": "./static/js/main.6ec5eadf.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.bbb920c1.js",
     "runtime-main.js.map": "./static/js/runtime-main.bbb920c1.js.map",
     "static/css/2.5d5ce2c3.chunk.css": "./static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.d83c98fe.chunk.js": "./static/js/2.d83c98fe.chunk.js",
-    "static/js/2.d83c98fe.chunk.js.map": "./static/js/2.d83c98fe.chunk.js.map",
+    "static/js/2.0ec628e1.chunk.js": "./static/js/2.0ec628e1.chunk.js",
+    "static/js/2.0ec628e1.chunk.js.map": "./static/js/2.0ec628e1.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f50f09a3f930544cf41bcf842c87236d.js": "./precache-manifest.f50f09a3f930544cf41bcf842c87236d.js",
+    "precache-manifest.9c86015df2382ea865f87465c9f99ff3.js": "./precache-manifest.9c86015df2382ea865f87465c9f99ff3.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.5d5ce2c3.chunk.css.map": "./static/css/2.5d5ce2c3.chunk.css.map",
-    "static/css/main.caf60505.chunk.css.map": "./static/css/main.caf60505.chunk.css.map",
-    "static/js/2.d83c98fe.chunk.js.LICENSE.txt": "./static/js/2.d83c98fe.chunk.js.LICENSE.txt",
+    "static/css/main.8770c327.chunk.css.map": "./static/css/main.8770c327.chunk.css.map",
+    "static/js/2.0ec628e1.chunk.js.LICENSE.txt": "./static/js/2.0ec628e1.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
     "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
     "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
@@ -40,6 +40,8 @@
     "static/media/melhoresDoMundo.png": "./static/media/melhoresDoMundo.0d2d4ada.png",
     "static/media/mug.png": "./static/media/mug.9d716a5f.png",
     "static/media/produtora.png": "./static/media/produtora.bf275040.png",
+    "static/media/slidebom.jpg": "./static/media/slidebom.887a4a76.jpg",
+    "static/media/slidnovometade.jpg": "./static/media/slidnovometade.a3bbfdb9.jpg",
     "static/media/telespectador.png": "./static/media/telespectador.b515afa2.png",
     "static/media/ticket1.png": "./static/media/ticket1.c59feeb0.png",
     "static/media/ticket2-backstage.png": "./static/media/ticket2-backstage.aa660ad7.png",
@@ -49,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.bbb920c1.js",
     "static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.d83c98fe.chunk.js",
-    "static/css/main.caf60505.chunk.css",
-    "static/js/main.bed9ea59.chunk.js"
+    "static/js/2.0ec628e1.chunk.js",
+    "static/css/main.8770c327.chunk.css",
+    "static/js/main.6ec5eadf.chunk.js"
   ]
 }
