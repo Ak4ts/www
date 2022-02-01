@@ -65,7 +65,8 @@
 
       en_us: {
         ios: "To add this web app to the home screen: tap %icon and then <strong>Add to Home Screen</strong>.",
-        android: '<button onClick="app.logEvent("a2hs", "installed")> Adicionar Na página Home </button>',
+        android: '<button class="add-button" > Adicionar app à página home </button>',
+
       },
 
       es_es: {
@@ -124,7 +125,7 @@
 
       pt_br: {
         ios: "Para adicionar este app à tela de início: clique %icon e então <strong>Tela de início</strong>.",
-        android: '<button onClick="app.logEvent("a2hs", "installed")> Adicionar Na página Home </button>',
+        android: '<button class="add-button" > Adicionar app à página home </button>',
  },
 
       pt_pt: {
