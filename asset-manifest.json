@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.2de57853.chunk.css",
-    "main.js": "./static/js/main.9fc42ed9.chunk.js",
-    "main.js.map": "./static/js/main.9fc42ed9.chunk.js.map",
+    "main.css": "./static/css/main.08131931.chunk.css",
+    "main.js": "./static/js/main.838ab8c9.chunk.js",
+    "main.js.map": "./static/js/main.838ab8c9.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1b063b9a.js",
     "runtime-main.js.map": "./static/js/runtime-main.1b063b9a.js.map",
     "static/css/2.5d5ce2c3.chunk.css": "./static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.aea9bf7e.chunk.js": "./static/js/2.aea9bf7e.chunk.js",
-    "static/js/2.aea9bf7e.chunk.js.map": "./static/js/2.aea9bf7e.chunk.js.map",
+    "static/js/2.2e7db534.chunk.js": "./static/js/2.2e7db534.chunk.js",
+    "static/js/2.2e7db534.chunk.js.map": "./static/js/2.2e7db534.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.23466c62e73a98412a97a23edc956d91.js": "./precache-manifest.23466c62e73a98412a97a23edc956d91.js",
+    "precache-manifest.89c81923eb6cd3b63318279b2e8c706f.js": "./precache-manifest.89c81923eb6cd3b63318279b2e8c706f.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.5d5ce2c3.chunk.css.map": "./static/css/2.5d5ce2c3.chunk.css.map",
-    "static/css/main.2de57853.chunk.css.map": "./static/css/main.2de57853.chunk.css.map",
-    "static/js/2.aea9bf7e.chunk.js.LICENSE.txt": "./static/js/2.aea9bf7e.chunk.js.LICENSE.txt",
+    "static/css/main.08131931.chunk.css.map": "./static/css/main.08131931.chunk.css.map",
+    "static/js/2.2e7db534.chunk.js.LICENSE.txt": "./static/js/2.2e7db534.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
     "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
     "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
+    "static/media/anual.jpeg": "./static/media/anual.1ef52d19.jpeg",
     "static/media/artista.png": "./static/media/artista.6f20ea68.png",
     "static/media/assentos.png": "./static/media/assentos.8b956c29.png",
     "static/media/background-register.png": "./static/media/background-register.bf19d57b.png",
@@ -40,13 +41,14 @@
     "static/media/ticket1.png": "./static/media/ticket1.c59feeb0.png",
     "static/media/ticket2-backstage.png": "./static/media/ticket2-backstage.aa660ad7.png",
     "static/media/treeFreendsLogo.png": "./static/media/treeFreendsLogo.aef0894a.png",
+    "static/media/trimestral.jpeg": "./static/media/trimestral.1ad6fcb2.jpeg",
     "static/media/turma.png": "./static/media/turma.fffcc50c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1b063b9a.js",
     "static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.aea9bf7e.chunk.js",
-    "static/css/main.2de57853.chunk.css",
-    "static/js/main.9fc42ed9.chunk.js"
+    "static/js/2.2e7db534.chunk.js",
+    "static/css/main.08131931.chunk.css",
+    "static/js/main.838ab8c9.chunk.js"
   ]
 }
