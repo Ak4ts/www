@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.3f62a067.chunk.css",
-    "main.js": "./static/js/main.259f5544.chunk.js",
-    "main.js.map": "./static/js/main.259f5544.chunk.js.map",
+    "main.js": "./static/js/main.aa7b7bf1.chunk.js",
+    "main.js.map": "./static/js/main.aa7b7bf1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1b063b9a.js",
     "runtime-main.js.map": "./static/js/runtime-main.1b063b9a.js.map",
-    "static/css/2.5d5ce2c3.chunk.css": "./static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.a9ecbbd9.chunk.js": "./static/js/2.a9ecbbd9.chunk.js",
-    "static/js/2.a9ecbbd9.chunk.js.map": "./static/js/2.a9ecbbd9.chunk.js.map",
+    "static/css/2.d26cfe98.chunk.css": "./static/css/2.d26cfe98.chunk.css",
+    "static/js/2.15615f81.chunk.js": "./static/js/2.15615f81.chunk.js",
+    "static/js/2.15615f81.chunk.js.map": "./static/js/2.15615f81.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.bc7978071598d7ce62ff53085a5e5b43.js": "./precache-manifest.bc7978071598d7ce62ff53085a5e5b43.js",
+    "precache-manifest.8d14853ae34eb602e8608401ba6601ed.js": "./precache-manifest.8d14853ae34eb602e8608401ba6601ed.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.5d5ce2c3.chunk.css.map": "./static/css/2.5d5ce2c3.chunk.css.map",
+    "static/css/2.d26cfe98.chunk.css.map": "./static/css/2.d26cfe98.chunk.css.map",
     "static/css/main.3f62a067.chunk.css.map": "./static/css/main.3f62a067.chunk.css.map",
-    "static/js/2.a9ecbbd9.chunk.js.LICENSE.txt": "./static/js/2.a9ecbbd9.chunk.js.LICENSE.txt",
+    "static/js/2.15615f81.chunk.js.LICENSE.txt": "./static/js/2.15615f81.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
     "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
     "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
@@ -23,8 +23,10 @@
     "static/media/backgroundGiftshop.png": "./static/media/backgroundGiftshop.734a5ff7.png",
     "static/media/bone.png": "./static/media/bone.92bcc863.png",
     "static/media/cabaret.png": "./static/media/cabaret.2e169619.png",
+    "static/media/card-cris.png": "./static/media/card-cris.eb2b50a8.png",
     "static/media/cardGift.png": "./static/media/cardGift.bc823495.png",
     "static/media/credCardVerso.png": "./static/media/credCardVerso.b4bfc535.png",
+    "static/media/cris-banner-live.png": "./static/media/cris-banner-live.761ec4ac.png",
     "static/media/emContrucao.png": "./static/media/emContrucao.577ed4e7.png",
     "static/media/faces.png": "./static/media/faces.6cfad948.png",
     "static/media/friends.png": "./static/media/friends.2e177027.png",
@@ -46,14 +48,13 @@
     "static/media/treeFreendsLogo.png": "./static/media/treeFreendsLogo.aef0894a.png",
     "static/media/trimestral.jpeg": "./static/media/trimestral.5bd7a8e5.jpeg",
     "static/media/turma.png": "./static/media/turma.fffcc50c.png",
-    "static/media/tvpwMargarethBanner.png": "./static/media/tvpwMargarethBanner.d0b574c9.png",
     "static/media/tvpwMargarethCard.png": "./static/media/tvpwMargarethCard.e8ce30bb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1b063b9a.js",
-    "static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.a9ecbbd9.chunk.js",
+    "static/css/2.d26cfe98.chunk.css",
+    "static/js/2.15615f81.chunk.js",
     "static/css/main.3f62a067.chunk.css",
-    "static/js/main.259f5544.chunk.js"
+    "static/js/main.aa7b7bf1.chunk.js"
   ]
 }
